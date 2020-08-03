@@ -1,0 +1,34 @@
+<root>
+    <record ID="1234">
+        <descriptions>
+            <paragraph>
+                <title>A fiatal Ippolito d'Este bíboros képmása</title>
+                <text>Raffaello még Firenzébe menetele előtt, Umbriában festette ezt a portrét, amely ma ismert képmásai között az első. Egyértelműen kimutatható rajta mesterének, Peruginónak közvetlen hatása. A húsz- huszonegy esztendős festő Francesco delle Opere Perugino által 1494-ben festett portréjáról (Firenze, Uffizi) vette át a félalak és a képtér közötti arányt, a tájképi háttér ideáját, a kezek elhelyezését, sőt nagyrészt még az öltözet színeit is. A mellvéd motívuma ugyanakkor a 15-ik századi németalföldi festészetből származik. A mellény és a sapka vöröse, az egyenesen vágott – „alla zazzara” – hosszú haj és a kabát barnája derűs összhangot alkot a lágy vonású arc és a mediterrán ég alatt feltáruló táj színeivel. Tátrai Vilmos</text>
+            </paragraph>
+        </descriptions>
+    </record>
+    <record ID="4567">
+        <descriptions>
+            <paragraph>
+                <title>Jelenetek a sivatagi remeték életéből (Thebais)</title>
+                <text>Ez a ritka témájú kép az egyiptomi Théba melletti sivatagba visszavonult, egyedül vagy kisebb csoportokban élő korai keresztény remeték életét ábrázolja. A kép eredeti helye és rendeltetése nem ismert. Egy kb. 205 cm széles festmény bal felét alkotta, amelynek egy másik töredéke korábban a firenzei Bartolini Salimbeni-gyűjteményben volt. A két töredék közötti, mára elveszett részletet két másik, szinte azonos kompozíciójú festmény alapján képzelhetjük el – egyiküket, mely épségben fennmaradt, a firenzei Galleria degli Uffizi őrzi, a másik töredékei az esztergomi Keresztény Múzeumba és egy magángyűjteménybe kerültek. E három Thebais szerzősége, datálása és pontos viszonya egyaránt vitatott, az azonban bizonyos, hogy kompozíciójuk még a 14. századi festői hagyományokban gyökerezik. A budapesti és a volt Bartolini Salimbeni töredékekből rekonstruálható mű szoros stiláris kapcsolatot mutat a kiváló kora-reneszánsz festő, Fra Angelico fiatalkori munkáival, és talán azonosítható egy neki tulajdonított, hasonló témájú festménnyel, amelyet 1492-ben a firenzei Medici palotában vettek leltárba. © Sallay Dóra, 2019</text>
+            </paragraph>
+            <paragraph>
+                <text>Théba nevéről a témát Thebaisnak is nevezik. A sziklás tájban elszórt jelenetek a sivatagi atyák jellemző, hétköznapi tevékenységeit szemléltetik, egyben hangsúlyozzák a közöttük fennálló harmonikus, támogató kapcsolatot is. Az előtérben elterülő víztükör a Nílusra utal. A késő középkorban a sivatagi atyák története népszerű volt a különböző szerzetesrendek, de még a laikusok körében is, mert a remeték példamutató élete mintaként szolgált a spirituális tökéletesség eléréséhez.</text>
+            </paragraph>
+        </descriptions>
+        <tags>
+            <tag ID="2"/>
+            <tag ID="15"/>
+            <tag ID="találat visszaírása ide"/>
+        </tags>
+    </record>
+    <record ID="8901">
+        <descriptions>
+            <paragraph>
+                <title>Mária gyermekével, Alexandriai Szent Katalinnal és Szent Borbálával</title>
+                <text>Ez a kép ugyanúgy a milánói leonardizmus produktuma, mint Giampietrino hasonló témájú festménye (ltsz. 47). Amaz fekvő formátumú és mozgalmas kompozíció néhány különös, bizarr motívummal, emez szimmetrikus szerkezetű, az áhítat csendjétől áthatott alkotás. Mária arca a legszebb, legátszellemültebb a három közül, de típusban csak árnyalattal különbözik a mögötte álló két női szent arcától. Míg Giampietrino a nézőt meglepni szándékozó látványosságot formált az attribútumokból, Luini kicsiny hímzett dísszé redukálja mind Szent Katalin mártíromságának eszközét, a kereket, mind azt a tornyot, amelynek falába Borbála, a Szentháromság iránti hódolata jeleként, egy harmadik ablakot vágott. Mária tunikájának szegélyén, még váratlanabb módon, a Virginis mater, vagyis a Szűz anyja felirat olvasható. Szent Anna lenne Mária helyén? 2009-ben egy milánói teológus fejtette meg a rejtélyt: a korai keresztény szerzők, köztük Szent Jeromos, a szűz (virgo) szót nem csak Máriára, hanem Jézusra vonatkoztatva is használták. A festmény geometrikus rendje egyrészt Quattrocento előképeket idéz – a lombardiai mester biztosan látott hasonló kompozíciókat például Andrea Mantegnától – másrészt a kortárs Bramantino hatásáról tanúskodik, aki Leonardóétól merőben eltérő stílusideált képviselt a korszak milánói festészetében. Ahogy a Gyermek  belelapoz a csíkos terítővel borított asztalon fekvő könyvbe, az egyszerre a gyermeki kíváncsiság ábrázolása és szimbolikus utalás a Megváltó eljövetelét prófétáló Írásra. © Tátrai Vilmos</text>
+            </paragraph>
+        </descriptions>
+    </record>
+</root>
